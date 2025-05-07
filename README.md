@@ -1,2 +1,0 @@
-# Antrian-JNE
-Web
